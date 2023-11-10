@@ -1,0 +1,54 @@
+.home1 {
+  height: 70vh;
+  display: flex;
+  justify-content: center;
+  align-items: left;
+  flex-direction: column;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.home1 .head h1 {
+  justify-content: center;
+  align-items: center;
+  font-weight: bold;
+  font-size: 80px;
+  color: rgb(28, 29, 30);
+  padding-left: 300px;
+}
+
+.image {
+  padding-right: 50px;
+  padding-top: 50px;
+  padding-left: 40px;
+  border-radius: 100px;
+}
+
+.image1{
+  padding-left: 100px;
+  padding-bottom: 150px;
+}
+
+.paragraph1 {
+  text-align: left;
+  vertical-align: baseline;
+  justify-content: space-around;
+}
+
+.paragraph {
+  color: green;
+  padding-top: 20px;
+  padding-right: 120px;
+ 
+}
+.main .parent1{
+  text-align: right;
+  display: flex;
+  justify-content: space-around;
+}
+.styles{
+  font-size: 18px;
+}
+.style1{
+  font-family: Arial, Helvetica, sans-serif;
+}

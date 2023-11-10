@@ -1,0 +1,33 @@
+/* .footer {
+    background-color: black;
+    color: rgb(193, 59, 59);
+    text-align: center;
+    padding: 10px;
+    position: relative;
+    bottom: 0;
+    width: 100%;
+  } */
+
+.main0 {
+  background-color: black;
+  color: rgb(193, 59, 59);
+  text-align: center;
+  padding: 10px;
+  position: relative;
+  bottom: 0;
+  width: 100%;
+}
+
+
+
+.Contact {
+  text-decoration: none;
+}
+
+.main0 {
+  background-color: black;
+}
+
+.main {
+  background-color: rgb(250, 0, 0);
+}
